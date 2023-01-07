@@ -8,6 +8,7 @@ import os
 import sys
 import platform
 
+#test
 
 class mywindow(QtWidgets.QMainWindow):
     def __init__(self):
